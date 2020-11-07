@@ -1,0 +1,909 @@
+ * {
+    margin: 0;
+    padding: 0;
+} 
+
+      header {
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 1002px;
+    background: #3C41DF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border-radius: 0 0 50% 74% ;
+    
+    }  
+
+  .bgimage { 
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 937px;
+    opacity: 0.4 ;
+    
+}  
+.logo{
+    top: 50px;
+   left: 150px;
+   width: 55px;
+   height: 55px;
+   background: transparent url(/assets/images/home-24px.png) 0% 0% no-repeat padding-box;
+   opacity: 1;
+   color: black;
+}
+.title {
+    position: absolute;
+    top: 53px;
+    left: 213px;
+    width: 217px;
+    height: 50px;
+    text-align: left;
+    font: normal normal medium 38px/50px Roboto;
+    letter-spacing: 0px;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.sub-title{
+    position: relative;
+    top: 209px;
+left: 150px;
+width: 663px;
+height: 146px;
+text-align: left;
+font: normal normal medium 55px/73px Roboto;
+letter-spacing: 0px;
+color: #FFFFFF;
+text-transform: capitalize;
+opacity: 1;
+}
+nav ul {
+    list-style-type: none;
+}
+nav ul li:nth-child(1) {
+    position: absolute;
+    top: 59px;
+    left: 753px;
+    width: 66px;
+    height: 31px;
+    text-align: left;
+    font: normal normal medium 22px/33px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+nav ul li:nth-child(2){
+    position: absolute;
+    top: 63px;
+    left: 861px;
+    width: 125px;
+    height: 31px;
+    text-align: left;
+    font: normal normal medium 22px/33px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+nav ul li:nth-child(3){
+    position: absolute;
+    top: 63px;
+    left: 1021px;
+    width: 82px;
+    height: 31px;
+    text-align: left;
+    font: normal normal medium 22px/33px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+nav ul li:nth-child(4){
+    position: absolute;
+    top: 63px;
+    left: 1139px;
+    width: 109px;
+    height: 31px;
+    text-align: left;
+    font: normal normal medium 22px/33px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+nav ul li:nth-child(5){
+    position: absolute;
+    top: 63px;
+    left: 1283px;
+    width: 136px;
+    height: 31px;
+    text-align: left;
+    font: normal normal medium 22px/33px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1
+}
+nav ul li:nth-child(6){
+    position: absolute;
+    top: 63px;
+    left: 1454px;
+    width: 110px;
+    height: 31px;
+    text-align: left;
+    font: normal normal medium 22px/33px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+nav ul li:nth-child(7){
+    position: absolute;
+    top: 64px;
+    left: 1629px;
+    width: 111px;
+    height: 28px;
+    text-align: left;
+    font: normal normal medium 20px/27px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: capitalize;
+    opacity: 1;
+}
+nav ul li a {
+    top: 53px;
+    left: 1599px;
+    width: 171px;
+    height: 50px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #FFFFFF;
+    border-radius: 30px;
+    opacity: 1;
+}
+.content {
+    position: absolute;
+    top: 379px;
+    left: 150px;
+    width: 686px;
+    height: 135px;
+    text-align: left;
+    font: normal normal normal 24px/29px Roboto;
+    letter-spacing: 0px;
+    color: #FEFEFE;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.rectangler {
+    position: absolute;
+    top: 538px;
+    left: 150px;
+    width: 250px;
+    height: 88px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 16px;
+    opacity: 1;
+}
+   .rectangler .btn {
+    position: absolute;
+    top: 566px;
+    left: 178px;
+    width: 162px;
+    height: 32px;
+    text-align: center;
+    font: normal normal medium 24px/32px Roboto;
+    letter-spacing: 0px;
+    color: rgb(12, 1, 1);
+    text-transform: capitalize;
+    opacity: 1;
+
+} 
+
+.iphone1 {
+    position: absolute;
+    top: 175px;
+    left: 894px;
+    width: 380px;
+    height: 611px;
+    background: transparent url(/images/iPhoneX-Light@2x.png) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.iphone2{
+    position: absolute;
+    top: 78px;
+    left: 1121px;
+    width: 500px;
+    height: 803px;
+    background: transparent url('/images/iPhone X - Light.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.iphone3{
+    position: absolute;
+    top: 175px;
+    left: 1467px;
+    width: 380px;
+    height: 611px;
+    background-image: transparent url(/iPhoneX-Light-1.png) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.explore {
+    position: absolute;
+    top: 566px;
+    left: 424px;
+    width: 142px;
+    height: 32px;
+    text-align: center;
+    font: normal normal medium 24px/32px Roboto;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+.section-title{
+    position: absolute;
+    top: 1102px;
+    left: 587px;
+    width: 748px;
+    height: 137px;
+    text-align: center;
+    font: normal normal medium 55px/60px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.section-sub-title{
+    position: absolute;
+    top: 1263px;
+    left: 536px;
+    width: 849px;
+    height: 69px;
+    text-align: center;
+    font: normal normal normal 24px/29px Roboto;
+    letter-spacing: 0px;
+    color: #707070;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.service{
+    top: 1102px;
+    left: 200px;
+    width: 1520px;
+    height: 791px;
+    opacity: 1;
+}
+
+.why-us{
+    position: absolute;
+    top: 1993px;
+    left: 0px;
+    width: 1770px;
+    height: 1054px;
+    opacity: 1;
+}
+h2{
+    position: absolute;
+    top: 19px;
+    left: 859px;
+    width: 204px;
+    height: 77px;
+    text-align: center;
+    font: normal normal medium 55px/60px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.why-content {
+    position: absolute;
+    top: 101px;
+    left: 537px;
+    width: 849px;
+    height: 69px;
+    text-align: center;
+    font: normal normal normal 24px/29px Roboto;
+    letter-spacing: 0px;
+    color: #707070;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.blue-rectangle {
+    position: absolute;
+    top: 236px;
+    left: 0px;
+    width: 704px;
+    height: 709px;
+    background: #0D13D7 10% 0% no-repeat padding-box;
+    border-top: 205px solid transparent;
+	border-left: 585px solid #0D13D7;
+	border-bottom: 125px solid transparent;
+    opacity: 1;
+}
+.blue-image {
+    position: absolute;
+    top: 126px;
+    left: 300px;
+    width: 578px;
+    height: 928px;
+    background:  url('/assets/images/iPhoneX-Light.png') 0% 0%  padding-box;
+    opacity: 1;
+}
+.ellipse{
+    position: absolute;
+    top: 308px;
+    left: 119px;
+    width: 590px;
+    height: 590px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 0.1;
+}
+.why-title {
+    position: absolute;
+    top: 363px;
+    left: 960px;
+    width: 396px;
+    height: 119px;
+    text-align: left;
+    font: normal normal 600 42px/60px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.why-text {
+    position: absolute;
+    top: 509px;
+    left: 960px;
+    width: 810px;
+    height: 116px;
+    text-align: left;
+    font: normal normal normal 24px/29px Roboto;
+    letter-spacing: 0px;
+    color: #707070;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.more {
+    position: absolute;
+    top: 745px;
+    left: 960px;
+    width: 245px;
+    height: 73px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #0D13D7;
+    border-radius: 16px;
+    opacity: 1;
+}
+ .get {
+     position: relative;
+    top: 20px;
+    left: 28px;
+    width: 110px;
+    height: 33px;
+    text-align: center;
+    font: normal normal medium 24px/35px Poppins;
+    letter-spacing: 0px;
+    color: #707070;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.projects {
+    position: absolute;
+    top: 3148px;
+    left: 150px;
+    width: 1620px;
+    height: 486px;
+    opacity: 1;
+}
+.project-space {
+    top: 3504px;
+    left: 200px;
+    width: 315px;
+    height: 83px;
+    opacity: 1;
+}
+.project-title {
+    top: 3148px;
+    left: 454px;
+    width: 1012px;
+    height: 160px;
+    text-align: center;
+    font: normal normal medium 55px/83px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: capitalize;
+    opacity: 1
+}
+.project-content {
+    top: 3332px;
+    left: 493px;
+    width: 934px;
+    height: 37px;
+    text-align: center;
+    font: normal normal normal 24px/35px Poppins;
+    letter-spacing: 0px;
+    color: #241B1B;
+    text-transform: capitalize;
+}
+.prj-comp{
+    top: 3454px;
+    left: 150px;
+    width: 415px;
+    height: 180px;
+    background: #F9F9FF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 50px 76px #0000000D;
+    border-radius: 100px 8px 101px 8px;
+    opacity: 1;
+}
+.circle-img {
+    top: 3504px;
+    left: 200px;
+    width: 83px;
+    height: 83px;
+    background: transparent url('/images/check_circle_outline-24px (1).png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.prj-num {
+    position: relative;
+    top: 86px;
+    left: 184px;
+    width: 82px;
+    height: 49px;
+    text-align: left;
+    font: normal normal medium 35px/53px Poppins;
+    letter-spacing: 0px;
+    color: #1453FF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.prj-com {
+    position: relative;
+    top: 115px;
+    left: 143px;
+    width: 222px;
+    height: 33px;
+    text-align: left;
+    font: normal normal medium 24px/35px Poppins;
+    letter-spacing: 0px;
+    color: #1453FF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.act-back {
+    position: absolute;
+    top: 233px;
+    left: 542px;
+    width: 260px;
+    height: 80px;
+    opacity: 1;
+    
+    
+}
+.act-img {
+    top: 3504px;
+    left: 692px;
+    width: 80px;
+    height: 80px;
+    background: transparent url('/images/assignment_turned_in-24px.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+ .act-num {
+    position: relative;
+    top: 15px;
+    left: 75px;
+    width: 82px;
+    height: 49px;
+    text-align: left;
+    font: normal normal medium 35px/53px Poppins;
+    letter-spacing: 0px;
+    color: #1453FF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.act-prj {
+    top: 3551px;
+    left: 765px;
+    width: 177px;
+    height: 33px;
+    text-align: left;
+    font: normal normal medium 24px/35px Poppins;
+    letter-spacing: 0px;
+    color: #242424;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.client {
+    position: absolute;
+    top: 245px;
+    left: 929px;
+    width: 264px;
+    height: 80px;
+    opacity: 1;
+    
+}
+.client-img {
+
+    top: 3504px;
+    left: 1079px;
+    width: 80px;
+    height: 80px;
+    background: transparent url('/images/supervised_user_circle-24px (2).png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+.client-num {
+    top: 3504px;
+    left: 1162px;
+    width: 70px;
+    height: 49px;
+    text-align: left;
+    font: normal normal medium 35px/53px Poppins;
+    letter-spacing: 0px;
+    color: #1453FF;
+    text-transform: capitalize;
+    opacity: 1;
+} 
+.client-sat {
+    top: 3551px;
+    left: 1162px;
+    width: 181px;
+    height: 33px;
+    text-align: left;
+    font: normal normal medium 24px/35px Poppins;
+    letter-spacing: 0px;
+    color: #242424;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.country {
+    position: absolute;
+    top: 246px;
+    left: 1250px;
+    width: 300px;
+    height: 80px;
+    opacity: 1;
+}
+.country-img{
+    top: 3504px;
+    left: 1470px;
+    width: 80px;
+    height: 80px;
+    background: transparent url('/images/supervised_user_circle-24px (2).png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.country-num {
+    top: 3504px;
+    left: 1553px;
+    width: 70px;
+    height: 49px;
+    text-align: left;
+    font: normal normal medium 35px/53px Poppins;
+    letter-spacing: 0px;
+    color: #1453FF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.country-sat{
+    top: 3551px;
+    left: 1553px;
+    width: 217px;
+    height: 33px;
+    text-align: left;
+    font: normal normal medium 24px/35px Poppins;
+    letter-spacing: 0px;
+    color: #242424;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.portfolio{
+    position: absolute;
+    top: 3734px;
+    left: 34px;
+    width: 2129px;
+    height: 1050px;
+    opacity: 1;
+}
+.port-title {
+    position: relative;
+    top: 0px;
+    left: 770px;
+    width: 316px;
+    height: 73px;
+    text-align: center;
+    font: normal normal medium 55px/60px Roboto;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: capitalize;
+    opacity: 1;
+}
+ .port-content{
+    position: relative;
+    top: 11px;
+    left: -270px;
+    width: 849px;
+    height: 69px;
+    text-align: center;
+    font: normal normal normal 24px/29px Roboto;
+    letter-spacing: 0px;
+    color: #707070;
+    text-transform: capitalize;
+    opacity: 1;
+} 
+.wellcome {
+    top: 3855px;
+    left: 34px;
+    opacity: 1;
+}
+ .plan {
+    position: relative;
+    top: -924px;
+    left: 459px;
+    opacity: 1;
+}
+.trip {
+    position: relative;
+    top: -1852px;
+    left: 883px;
+    opacity: 1;
+}
+.trip1{
+    position: relative;
+    top: -2782px;
+    left: 1308px;
+    opacity: 1;
+} 
+.feedback-back{
+    position: absolute;
+    top: 4884px;
+    left: 150px;
+    width: 1620px;
+    height: 753px;
+    opacity: 1;
+    
+}
+.feedback {
+    top: 4884px;
+    left: 150px;
+    width: 525px;
+    height: 73px;
+    text-align: left;
+    font: normal normal medium 55px/73px Roboto;
+    letter-spacing: 0px;
+    color: #010000;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.feedback-content {
+    top: 4973px;
+    left: 150px;
+    width: 920px;
+    height: 69px;
+    text-align: left;
+    font: normal normal normal 24px/29px Roboto;
+    letter-spacing: 0px;
+    color: #707070;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.more1{
+    position: relative;
+    top: -60px;
+    left: 1363px;
+    width: 257px;
+    height: 73px;
+    background: #F3F3F3 0% 0% no-repeat padding-box;
+    border-radius: 16px;
+    opacity: 1;
+}
+.feed {
+    position: relative;
+    top: 20px;
+    left: 28px;
+    width: 130px;
+    height: 33px;
+    text-align: center;
+    font: normal normal medium 24px/35px Poppins;
+    letter-spacing: 0px;
+    color: #707070;
+    text-transform: capitalize;
+    opacity: 1;
+}
+ .guy-img {
+    position: relative;
+    top: 48px;
+    left: 0px;
+    opacity: 1;
+} 
+.img-back {
+    position: relative;
+    top: -547px;
+    left: 290px;
+    width: 1332px;
+    height: 547px;
+    background-origin: #EFEFFE 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+}
+.img-text {
+    position: relative;
+    top: 178px;
+    left: 364px;
+    width: 595px;
+    height: 136px;
+    text-align: left;
+    font: normal normal normal 24px/32px Poppins;
+    letter-spacing: -0.48px;
+    color: #222D39;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.riad {
+    position: relative;
+    top: 209px;
+    left: 362px;
+    width: 115px;
+    height: 33px;
+    text-align: left;
+    font: normal normal medium 24px/32px Roboto;
+    letter-spacing: -0.48px;
+    color: #000000;
+    text-transform: capitalize;
+    opacity: 1;
+
+}
+.designation {
+    position: relative;
+    top: 202px;
+    left: 363px;
+    width: 193px;
+    height: 25px;
+    text-align: left;
+    font: normal normal medium 16px/40px Roboto;
+    letter-spacing: -0.32px;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.stars {
+    position: relative;
+    top: 100px;
+    left: 364px;
+}
+.stars1 {
+    position: relative;
+    top: 100px;
+    left: 430px;
+}
+.stars2 {
+    position: relative;
+    top: 100px;
+    left: 496px;
+}
+.stars3{
+    position: relative;
+    top: 100px;
+    left: 562px;
+}
+.stars4 {
+    position: relative;
+    top: 100px;
+    left: 628px;
+}
+.contact-details {
+    position: relative;
+    top: -77px;
+    left: 249px;
+    width: 1110px;
+    height: 200px;
+    background: #333697 0% 0% no-repeat padding-box;
+    border-radius: 16px;
+    opacity: 1;
+}
+.footer-title {
+    position: relative;
+    top: 36px;
+    left: 70px;
+    width: 200px;
+    height: 48px;
+    text-align: left;
+    font: normal normal medium 34px/46px Poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.footer-content {
+    position: relative;
+    top: 52px;
+    left: 70px;
+    width: 463px;
+    height: 66px;
+    text-align: left;
+    font: normal normal normal 18px/28px Open Sans;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.send-btn {
+    top: 5813px;
+    left: 1295px;
+    width: 140px;
+    height: 50px;
+    background: #333697 0% 0% no-repeat padding-box;
+    opacity: 1
+}
+
+.footer-back {
+    position: relative;
+    top:814px;
+    left: 0px;
+    width: 1920px;
+    height: 557px;
+    background:  #EBEBF8 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+form {
+    position: relative;
+    top: -230px;
+    left: 865px;
+    width: 437px;
+    height: 70px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 40px;
+    opacity: 1;
+}
+.footer-color {
+    position: relative;
+    top: -69px;
+    left: 150px;
+    width: 55px;
+    height: 55px;
+    transform: matrix(0.71, -0.71, 0.71, 0.71, 0, 0);
+    background: #6D79C2 0% 0% no-repeat padding-box;
+    border-radius: 18px;
+    opacity: 1;
+}
+.footer-name {
+    position: relative;
+    top: -112px;
+    left: 232px;
+    width: 113px;
+    height: 49px;
+    text-align: left;
+    font: normal normal medium 35px/53px Poppins;
+    letter-spacing: 0px;
+    color: #707070;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.links {
+      position: relative;
+      top:-131px;
+      left: 650px;
+      width: 51px;
+      height: 60px;
+      text-align: left;
+      font: normal normal 600 20px/32px Poppins;
+      letter-spacing: 0px;
+      color: #000000;
+      opacity: 1;
+}
+.support {
+    position: relative;
+    top: -188px;
+    left: 1077px;
+    width: 81px;
+    height: 60px;
+    text-align: left;
+    font: normal normal 600 20px/32px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1
+
+}
+.footer-contactus{
+position: relative;
+top: -245px;
+left: 1500px;
+width: 1920px;
+height: 557px;
+background: #EBEBF8 0% 0% no-repeat padding-box;
+opacity: 1
+}

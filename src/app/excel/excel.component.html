@@ -1,0 +1,17 @@
+<div style="margin: auto; width: 50%;">
+    <button (click)="export()">export file</button>
+    <table id="excel-table">
+        <tr>
+            <th>id</th>
+            <th>Name</th>
+            <th>UserName</th>
+            <th>Email</th>
+        </tr>
+        <tr *ngFor = "let item of userList">
+            <td>{{item.id}}</td>
+            <td>{{item.name}}</td>
+            <td>{{item.username}}</td>
+            <td>{{item.email}}</td>
+        </tr>
+    </table>
+</div>
